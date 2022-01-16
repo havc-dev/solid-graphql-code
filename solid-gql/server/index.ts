@@ -7,7 +7,7 @@ const pubsub = new PubSub();
 let todos = [
   {
     id: "1",
-    text: "Learn GraphQL + Soild",
+    text: "Learn GraphQL + Solid",
     done: false,
   },
 ];
